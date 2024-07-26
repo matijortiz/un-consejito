@@ -1,40 +1,360 @@
 [
     {
-      "palabra": "amor",
-      "consejos": [
-        "El amor no se trata de cuántos días, meses o años has estado con alguien. Se trata de cuánto te amas cada día.",
-        "El amor es la mayor fuerza del universo y es capaz de transformar cualquier cosa.",
-        "El amor verdadero no es algo que viene y se va, es algo que permanece para siempre."
-      ]
+        "palabra": "amor",
+        "consejos": [
+            "El amor no se trata de cuántos días, meses o años has estado con alguien. Se trata de cuánto te amas cada día.",
+            "El amor es la mayor fuerza del universo y es capaz de transformar cualquier cosa.",
+            "El amor verdadero no es algo que viene y se va, es algo que permanece para siempre.",
+            "El amor es como el viento, no puedes verlo, pero puedes sentirlo.",
+            "El amor es la única cosa que crece cuando se reparte."
+        ]
     },
     {
-      "palabra": "amistad",
-      "consejos": [
-        "La amistad duplica las alegrías y divide las angustias por la mitad.",
-        "Un verdadero amigo es alguien que está contigo en las buenas y en las malas.",
-        "La amistad es el ingrediente más importante en la receta de la vida."
-      ]
+        "palabra": "amistad",
+        "consejos": [
+            "La amistad duplica las alegrías y divide las angustias por la mitad.",
+            "Un verdadero amigo es alguien que está contigo en las buenas y en las malas.",
+            "La amistad es el ingrediente más importante en la receta de la vida.",
+            "Los amigos son la familia que elegimos para nosotros mismos.",
+            "La amistad es como una planta, hay que regarla para que crezca."
+        ]
     },
     {
-      "palabra": "trabajo",
-      "consejos": [
-        "Elige un trabajo que te guste y no tendrás que trabajar ni un día de tu vida.",
-        "El trabajo duro supera al talento cuando el talento no trabaja duro.",
-        "El éxito no se mide por el dinero que ganas, sino por la diferencia que haces en la vida de las personas."
-      ]
+        "palabra": "trabajo",
+        "consejos": [
+            "Elige un trabajo que te guste y no tendrás que trabajar ni un día de tu vida.",
+            "El trabajo duro supera al talento cuando el talento no trabaja duro.",
+            "El éxito no se mide por el dinero que ganas, sino por la diferencia que haces en la vida de las personas.",
+            "El trabajo en equipo divide la tarea y multiplica el éxito.",
+            "La clave del éxito es empezar antes de estar listo."
+        ]
     },
     {
-      "palabra": "codigo",
-      "consejos": [
-        "La Matrix está en todas partes. Está a nuestro alrededor. Incluso ahora, en esta misma habitación.",
-        "Sigue al conejo blanco.",
-        "No pienses que eres, sabe que eres.",
-        "No existe la cuchara.",
-        "Despierta, Neo... La Matrix te posee.",
-        "Conocerás la verdad, y la verdad te hará libre.",
-        "Bienvenido al desierto de lo real."
-      ]
+        "palabra": "codigo",
+        "consejos": [
+            "La Matrix está en todas partes. Está a nuestro alrededor. Incluso ahora, en esta misma habitación.",
+            "Sigue al conejo blanco.",
+            "No pienses que eres, sabe que eres.",
+            "No existe la cuchara.",
+            "Despierta, Neo... La Matrix te posee.",
+            "Conocerás la verdad, y la verdad te hará libre.",
+            "Bienvenido al desierto de lo real."
+        ]
+    },
+    {
+        "palabra": "salud",
+        "consejos": [
+            "La salud es la verdadera riqueza y no piezas de oro y plata.",
+            "Cuida tu cuerpo, es el único lugar donde tienes que vivir.",
+            "La salud es el mayor regalo, la satisfacción de la mayor riqueza, la fidelidad de la mejor relación.",
+            "La salud no lo es todo, pero sin ella, todo lo demás es nada.",
+            "Una mente sana en un cuerpo sano es una descripción corta pero completa de un estado feliz en este mundo."
+        ]
+    },
+    {
+        "palabra": "felicidad",
+        "consejos": [
+            "La felicidad no es algo hecho. Proviene de tus propias acciones.",
+            "La felicidad se encuentra en el camino, no al final del camino.",
+            "La felicidad es cuando lo que piensas, lo que dices y lo que haces están en armonía.",
+            "La felicidad no es tener lo que quieres, sino querer lo que tienes.",
+            "La felicidad radica, ante todo, en la salud."
+        ]
+    },
+    {
+        "palabra": "exito",
+        "consejos": [
+            "El éxito no es la clave de la felicidad. La felicidad es la clave del éxito.",
+            "No midas el éxito por lo que lograste, sino por lo que superaste.",
+            "El éxito es caer nueve veces y levantarse diez.",
+            "El único lugar donde el éxito viene antes que el trabajo es en el diccionario.",
+            "El éxito es la suma de pequeños esfuerzos repetidos día tras día."
+        ]
+    },
+    {
+        "palabra": "vida",
+        "consejos": [
+            "La vida es lo que hacemos de ella. Siempre ha sido, siempre lo será.",
+            "La vida es realmente simple, pero insistimos en hacerla complicada.",
+            "La vida no se mide por las veces que respiras, sino por los momentos que te dejan sin aliento.",
+            "Vive como si fueras a morir mañana. Aprende como si fueras a vivir siempre.",
+            "La vida es un 10% lo que nos sucede y un 90% cómo reaccionamos a ello."
+        ]
+    },
+    {
+        "palabra": "familia",
+        "consejos": [
+            "La familia no es algo importante. Lo es todo.",
+            "La familia es una de las obras maestras de la naturaleza.",
+            "La familia es donde la vida comienza y el amor nunca termina.",
+            "La familia es el corazón de un hogar.",
+            "El amor de la familia es la fuerza más poderosa de todas."
+        ]
+    },
+    {
+        "palabra": "dinero",
+        "consejos": [
+            "El dinero no puede comprar la felicidad, pero es un excelente antidepresivo.",
+            "El dinero es un servidor útil, pero un amo peligroso.",
+            "El dinero no puede comprar el amor, pero puede mejorar la calidad de tus recuerdos.",
+            "La verdadera medida de la riqueza es cuánto valdrías si perdieras todo tu dinero.",
+            "No ahorres lo que queda después de gastar, gasta lo que queda después de ahorrar."
+        ]
+    },
+    {
+        "palabra": "motivacion",
+        "consejos": [
+            "La motivación es lo que te pone en marcha. El hábito es lo que hace que sigas.",
+            "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
+            "No esperes a que todo sea perfecto para empezar. El empezar es lo que lo hace perfecto.",
+            "La motivación te impulsa a empezar, pero el hábito te mantiene en marcha.",
+            "La clave del éxito es empezar antes de estar listo."
+        ]
+    },
+    {
+        "palabra": "autoestima",
+        "consejos": [
+            "El amor propio es el principio de una vida larga y feliz.",
+            "La autoestima es tan importante para nuestro bienestar como las piernas para una mesa. Es esencial para la salud física y mental y para la felicidad.",
+            "La autoestima no es egocentrismo, es saber que vales lo suficiente para merecer cosas buenas.",
+            "Amarse a uno mismo es el comienzo de un romance para toda la vida.",
+            "Eres increíble tal y como eres."
+        ]
+    },
+    {
+        "palabra": "depresion",
+        "consejos": [
+            "La salud mental no es un destino, sino un proceso. Es sobre cómo conduces, no a dónde vas.",
+            "No estás solo en esto. Habla con alguien en quien confíes.",
+            "La salud mental es igual de importante que la salud física.",
+            "Tomarse un descanso no significa que estés roto, significa que necesitas recargarte.",
+            "Cuidar de ti mismo no es egoísta, es necesario."
+        ]
+    },
+    {
+        "palabra": "relaciones",
+        "consejos": [
+            "Las mejores relaciones son aquellas que te hacen una mejor persona sin cambiarte en alguien distinto.",
+            "La comunicación es la clave para una relación exitosa.",
+            "El respeto mutuo es la base de todas las relaciones exitosas.",
+            "Una relación saludable te hace sentir bien contigo mismo y con la otra persona.",
+            "Las relaciones son como una planta: necesitan cuidado y atención constantes para crecer."
+        ]
+    },
+    {
+        "palabra": "liderazgo",
+        "consejos": [
+            "Un buen líder es aquel que conoce el camino, anda el camino y muestra el camino.",
+            "El liderazgo no se trata de ser el mejor, se trata de hacer que otros sean mejores.",
+            "Un verdadero líder no crea seguidores, crea más líderes.",
+            "El arte de liderar es decir no, no sí. Es muy fácil decir sí.",
+            "El liderazgo es la capacidad de traducir la visión en realidad."
+        ]
+    },
+    {
+        "palabra": "educacion",
+        "consejos": [
+            "La educación es el arma más poderosa que puedes usar para cambiar el mundo.",
+            "El objetivo de la educación es preparar a los jóvenes para educarse a sí mismos durante toda su vida.",
+            "La educación no es preparación para la vida; la educación es la vida en sí misma.",
+            "La educación es la llave para desbloquear el mundo, un pasaporte a la libertad.",
+            "La educación es el movimiento de la oscuridad a la luz."
+        ]
+    },
+    {
+        "palabra": "creatividad",
+        "consejos": [
+            "La creatividad es la inteligencia divirtiéndose.",
+            "No puedes agotar la creatividad. Cuanto más usas, más tienes.",
+            "La creatividad es ver lo que todos han visto y pensar lo que nadie más ha pensado.",
+            "La creatividad requiere coraje para desprenderse de las certezas.",
+            "La creatividad es permitirte cometer errores. El arte es saber cuáles guardar."
+        ]
+    },
+    {
+        "palabra": "productividad",
+        "consejos": [
+            "La productividad no es casualidad. Es siempre el resultado de un compromiso con la excelencia, la planificación inteligente y el esfuerzo concentrado.",
+            "Concéntrate en ser productivo en lugar de estar ocupado.",
+            "El secreto de la productividad está en no hacer nada que no sea productivo.",
+            "La productividad es menos sobre lo que haces con tu tiempo y más sobre cómo administras tu energía.",
+            "La productividad es la base de la economía, la competencia y el progreso."
+        ]
+    },
+    {
+        "palabra": "estres",
+        "consejos": [
+            "No es el estrés lo que nos mata, es nuestra reacción a él.",
+            "Respira profundamente. Es solo un mal día, no una mala vida.",
+            "El estrés es causado por estar 'aquí' pero querer estar 'allí'.",
+            "No te estreses por lo que no puedes controlar.",
+            "El estrés no desaparece solo. Tienes que elegir vivir tu vida sin él."
+        ]
+    },
+    {
+        "palabra": "deporte",
+        "consejos": [
+            "El deporte no construye el carácter. Lo revela.",
+            "El único lugar donde el éxito viene antes que el trabajo es en el diccionario.",
+            "El deporte tiene el poder de cambiar el mundo. Tiene el poder de inspirar. Tiene el poder de unir a las personas de una manera que pocas otras cosas pueden.",
+            "No hay atajos para cualquier lugar al que valga la pena ir.",
+            "La vida es como montar en bicicleta. Para mantener el equilibrio, debes seguir adelante."
+        ]
+    },
+    {
+        "palabra": "tecnologia",
+        "consejos": [
+            "La tecnología es solo una herramienta. En términos de motivar a los niños y de hacerlos trabajar juntos, el maestro es lo más importante.",
+            "La tecnología avanza a pasos agigantados, pero nunca debe reemplazar el toque humano.",
+            "El mayor riesgo es no asumir ningún riesgo. En un mundo que cambia muy rápidamente, la única estrategia que está garantizada para fallar es no asumir riesgos.",
+            "La tecnología es mejor cuando reúne a las personas.",
+            "La innovación es lo que distingue a un líder de los demás."
+        ]
+    },
+    {
+        "palabra": "tierra",
+        "consejos": [
+            "La tierra no es una herencia de nuestros padres, sino un préstamo de nuestros hijos.",
+            "El mejor momento para plantar un árbol fue hace 20 años. El segundo mejor momento es ahora.",
+            "Solo tenemos una Tierra. Cuidémosla.",
+            "El cambio climático no es una ficción, es una realidad que debemos enfrentar.",
+            "El futuro será verde o no será."
+        ]
+    },
+    {
+        "palabra": "resiliencia",
+        "consejos": [
+            "La resiliencia es aceptar tu nueva realidad, incluso si es menos buena de lo que tenías antes.",
+            "La resiliencia no es solo la capacidad de recuperarse, sino también la capacidad de mantener la intención en la adversidad.",
+            "La resiliencia es el arte de rebotar con propósito.",
+            "La vida no es esperar a que pase la tormenta, es aprender a bailar bajo la lluvia.",
+            "La resiliencia no es ser invulnerable, sino saber cómo levantarse después de caer."
+        ]
+    },
+    {
+        "palabra": "innovacion",
+        "consejos": [
+            "La innovación distingue a los líderes de los seguidores.",
+            "No puedes agotar la creatividad. Cuanto más usas, más tienes.",
+            "La innovación es ver lo que todos han visto y pensar lo que nadie más ha pensado.",
+            "La innovación es lo que hace que una idea buena sea grandiosa.",
+            "El secreto de la innovación es mirar al mundo de una manera nueva."
+        ]
+    },
+    {
+        "palabra": "viajes",
+        "consejos": [
+            "El mundo es un libro y aquellos que no viajan solo leen una página.",
+            "Viajar te deja sin palabras y luego te convierte en un narrador.",
+            "No viajas para escapar de la vida, viajas para que la vida no se te escape.",
+            "La vida es un viaje que debe ser recorrido sin importar cuán malas sean las carreteras y los alojamientos.",
+            "El viaje más largo comienza con un solo paso."
+        ]
+    },
+    {
+        "palabra": "fotografia",
+        "consejos": [
+            "La fotografía es el arte de congelar el tiempo.",
+            "Una fotografía es un secreto sobre un secreto, cuanto más te dice, menos sabes.",
+            "La fotografía es la historia que no puedo poner en palabras.",
+            "La cámara es un instrumento que enseña a las personas a ver sin cámara.",
+            "Las mejores cosas de la vida son capturadas con una cámara, el resto es solo una vida ordinaria."
+        ]
+    },
+    {
+        "palabra": "meditacion",
+        "consejos": [
+            "La meditación no es una forma de escapar, sino una forma de llegar a un entendimiento pacífico.",
+            "La meditación es una forma de limpiar el espejo de la mente.",
+            "Meditar es bucear dentro de uno mismo y encontrar paz en el fondo de las olas.",
+            "La meditación no es sobre vaciar la mente, sino llenarla con la verdad.",
+            "La meditación es el alma de la espiritualidad y el corazón de la vida."
+        ]
+    },
+    {
+        "palabra": "gastronomia",
+        "consejos": [
+            "Cocinar es como amar, o te involucras por completo o no te involucres en absoluto.",
+            "La gente que ama comer siempre es la mejor gente.",
+            "El secreto del éxito en la cocina reside en la simplicidad.",
+            "La gastronomía es la felicidad y la satisfacción de todos los sentidos.",
+            "La cocina es el corazón del hogar."
+        ]
+    },
+    {
+        "palabra": "naturaleza",
+        "consejos": [
+            "La naturaleza siempre lleva los colores del espíritu.",
+            "Mira profundamente en la naturaleza y entonces comprenderás todo mejor.",
+            "En la naturaleza nada es perfecto y todo es perfecto. Los árboles pueden ser contorsionados, doblados de formas extrañas, y siguen siendo hermosos.",
+            "La naturaleza no es un lugar para visitar. Es el hogar.",
+            "La naturaleza no se apresura, sin embargo, todo se logra."
+        ]
+    },
+    {
+        "palabra": "paz",
+        "consejos": [
+            "La paz no es la ausencia de conflicto, sino la presencia de opciones creativas para responder a los conflictos.",
+            "No hay camino para la paz, la paz es el camino.",
+            "La paz comienza con una sonrisa.",
+            "La paz interior es la clave para la paz exterior.",
+            "La paz es el resultado de reentrenar tu mente para procesar la vida tal como es, en lugar de como crees que debería ser."
+        ]
+    },
+    {
+        "palabra": "confianza",
+        "consejos": [
+            "La confianza en uno mismo es el primer secreto del éxito.",
+            "La confianza no es algo que obtienes, es algo que creas.",
+            "La confianza en ti mismo es contagiosa. La falta de confianza también.",
+            "La confianza en uno mismo es el mejor atuendo. Úsala y conquístalo todo.",
+            "La confianza en sí mismo es el primer requisito para los grandes emprendimientos."
+        ]
+    },
+    {
+        "palabra": "optimismo",
+        "consejos": [
+            "El optimismo es la fe que conduce al logro. Nada se puede hacer sin esperanza y confianza.",
+            "Un optimista ve una oportunidad en toda calamidad, un pesimista ve una calamidad en toda oportunidad.",
+            "El optimismo es la locura de insistir en que todo está bien cuando somos desdichados.",
+            "La vida es 10% lo que me ocurre y 90% cómo reacciono a ello.",
+            "El optimismo perpetuo es un multiplicador de fuerza."
+        ]
+    },
+    {
+        "palabra": "bienestar",
+        "consejos": [
+            "El bienestar no es un estado de perfección, sino un estado de aprecio.",
+            "El bienestar es el resultado de una actitud positiva hacia la vida.",
+            "Cuidar de tu bienestar es una prioridad, no un lujo.",
+            "El bienestar no es un objetivo, sino un camino de vida.",
+            "La verdadera riqueza es la salud."
+        ]
+    },
+    {
+        "palabra": "cambio",
+        "consejos": [
+            "El cambio es la ley de la vida. Aquellos que solo miran al pasado o al presente se perderán el futuro.",
+            "No tengas miedo de renunciar a lo bueno para ir por lo grandioso.",
+            "El cambio no se producirá si esperamos a otra persona o en otro momento. Somos los que hemos estado esperando. Somos el cambio que buscamos.",
+            "El secreto del cambio es enfocar toda tu energía no en luchar contra lo viejo, sino en construir lo nuevo.",
+            "El cambio es inevitable, el crecimiento es opcional."
+        ]
+    },
+    {
+        "palabra": "sabiduria",
+        "consejos": [
+            "La sabiduría comienza en la maravilla.",
+            "La verdadera sabiduría está en reconocer la propia ignorancia.",
+            "La sabiduría es la recompensa de superar la ignorancia.",
+            "La sabiduría no es un producto de la educación, sino de toda una vida tratando de adquirirla.",
+            "La sabiduría no es un objetivo, sino una forma de vida."
+        ]
+    },
+    {
+        "palabra": "gratidud",
+        "consejos": [
+            "La gratitud convierte lo que tenemos en suficiente.",
+            "La gratitud es...estoy cansado jefe..."] 
     }
-
-  ]
-  
+]
