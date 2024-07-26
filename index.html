@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Un consejito</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/jpg" href="/img/favicon.ico"/>
+    <link href="https://api.fontshare.com/v2/css?f[]=bespoke-stencil@300,301&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <img src="img/cabeza1.png" alt="Un Random en un Bar" class="logo">
+        <h1>Un Consejito</h1>
+        <p><I>Expresa con una palabra el tema (ej: amistad)<I/></p>
+        <input type="text" id="keywordInput" placeholder="Ingresa una palabra" oninput="validateInput(this)">
+        <button onclick="getAdvice()">Buscar Consejo</button>
+        <div id="adviceOutput"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

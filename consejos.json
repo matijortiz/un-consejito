@@ -1,0 +1,40 @@
+[
+    {
+      "palabra": "amor",
+      "consejos": [
+        "El amor no se trata de cuántos días, meses o años has estado con alguien. Se trata de cuánto te amas cada día.",
+        "El amor es la mayor fuerza del universo y es capaz de transformar cualquier cosa.",
+        "El amor verdadero no es algo que viene y se va, es algo que permanece para siempre."
+      ]
+    },
+    {
+      "palabra": "amistad",
+      "consejos": [
+        "La amistad duplica las alegrías y divide las angustias por la mitad.",
+        "Un verdadero amigo es alguien que está contigo en las buenas y en las malas.",
+        "La amistad es el ingrediente más importante en la receta de la vida."
+      ]
+    },
+    {
+      "palabra": "trabajo",
+      "consejos": [
+        "Elige un trabajo que te guste y no tendrás que trabajar ni un día de tu vida.",
+        "El trabajo duro supera al talento cuando el talento no trabaja duro.",
+        "El éxito no se mide por el dinero que ganas, sino por la diferencia que haces en la vida de las personas."
+      ]
+    },
+    {
+      "palabra": "codigo",
+      "consejos": [
+        "La Matrix está en todas partes. Está a nuestro alrededor. Incluso ahora, en esta misma habitación.",
+        "Sigue al conejo blanco.",
+        "No pienses que eres, sabe que eres.",
+        "No existe la cuchara.",
+        "Despierta, Neo... La Matrix te posee.",
+        "Conocerás la verdad, y la verdad te hará libre.",
+        "Bienvenido al desierto de lo real."
+      ]
+    }
+
+  ]
+  
