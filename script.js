@@ -1,5 +1,6 @@
+// script.js
+
 function validateInput(input) {
-    // Elimina caracteres no permitidos
     input.value = input.value.replace(/[^a-zA-Z]/g, '');
 }
 
@@ -8,7 +9,7 @@ function getAdvice() {
     const keyword = keywordInput.value.trim().toLowerCase();
 
     if (keyword === '') {
-        document.getElementById('adviceOutput').innerText = 'Por favor, ingresa una palabra.';
+        showModal('Por favor, ingresa una palabra.');
         return;
     }
 
@@ -18,13 +19,39 @@ function getAdvice() {
             const adviceEntry = data.find(entry => entry.palabra.toLowerCase() === keyword);
             if (adviceEntry) {
                 const randomAdvice = adviceEntry.consejos[Math.floor(Math.random() * adviceEntry.consejos.length)];
-                document.getElementById('adviceOutput').innerText = randomAdvice;
+                showModal(randomAdvice);
             } else {
-                document.getElementById('adviceOutput').innerText = 'No se encontró ningún consejo para esa palabra.';
+                showModal('No se encontró ningún consejo para esa palabra.');
             }
         })
         .catch(error => {
-            document.getElementById('adviceOutput').innerText = 'Hubo un error al buscar el consejo.';
+            showModal('Error al obtener el consejo.');
             console.error('Error fetching advice:', error);
         });
 }
+
+function showModal(message) {
+    const modal = document.getElementById('adviceModal');
+    const adviceOutput = document.getElementById('adviceOutput');
+    adviceOutput.innerText = message;
+    modal.classList.remove('hidden');
+}
+
+function closeModal() {
+    const modal = document.getElementById('adviceModal');
+    modal.classList.add('hidden');
+}
+
+// Cerrar el modal cuando se toca fuera de él.
+window.onclick = function(event) {
+    const modal = document.getElementById('adviceModal');
+    if (event.target === modal) {
+        modal.classList.add('hidden');
+    }
+}
+
+// Asegúrate de que el modal esté oculto al cargar la página
+document.addEventListener('DOMContentLoaded', function() {
+    const modal = document.getElementById('adviceModal');
+    modal.classList.add('hidden');
+});
