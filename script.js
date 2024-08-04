@@ -1,4 +1,3 @@
-// script.js
 
 function validateInput(input) {
     input.value = input.value.replace(/[^a-zA-Z]/g, '');
@@ -42,7 +41,7 @@ function closeModal() {
     modal.classList.add('hidden');
 }
 
-// Cerrar el modal cuando se toca fuera de él.
+// Cerrar el modal cuando se toca fuera de él
 window.onclick = function(event) {
     const modal = document.getElementById('adviceModal');
     if (event.target === modal) {
@@ -50,7 +49,7 @@ window.onclick = function(event) {
     }
 }
 
-// Asegúrate de que el modal esté oculto al cargar la página
+// Modal oculto al cargar la página
 document.addEventListener('DOMContentLoaded', function() {
     const modal = document.getElementById('adviceModal');
     modal.classList.add('hidden');
