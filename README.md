@@ -1,7 +1,7 @@
 
 # Un Consejito
 
-**Un Consejito** es una aplicación web interactiva que proporciona consejos, frases y citas inspiradoras basadas en una palabra clave ingresada por el usuario. La aplicación también cuenta con un "modo Dan" que transforma los consejos a una perspectiva más pesimista-existencialista.
+👋 **Un Consejito** 👋 es una aplicación web interactiva que proporciona consejos, frases y citas inspiradoras basadas en una palabra clave ingresada por el usuario 🖤. La aplicación también cuenta con un "modo Dan" 🙈 que transforma los consejos a una perspectiva más pesimista-existencialista 😱💀.
 
 ## Características
 
@@ -49,7 +49,6 @@ El "Modo Dan" es una característica que transforma los consejos mostrados a una
 
 ### Ejemplo de consejos.json en Modo Dan
 
-```json
 [
     {
         "palabra": "motivacion",
@@ -60,4 +59,14 @@ El "Modo Dan" es una característica que transforma los consejos mostrados a una
         ]
     }
 ]
+
+## Autores
+
+
+### No tiene ninguna licencia. Lo hice porque porque quería divertirme aprendiendo.
+
+
+
+
+
 
