@@ -60,7 +60,9 @@ El "Modo Dan" es una característica que transforma los consejos mostrados a una
     }
 ]
 
-## Autores
+## Autores [[Mati O.]]
+
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/28DJWdZd/matioctocat.png' border='0' alt='matioctocat'/></a>
 
 
 ### No tiene ninguna licencia. Lo hice porque porque quería divertirme aprendiendo.
