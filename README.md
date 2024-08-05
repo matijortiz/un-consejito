@@ -1,5 +1,5 @@
 
-# Un Consejito
+# Un Consejito 🧎‍♂️
 
 👋 **Un Consejito** 👋 es una aplicación web interactiva que proporciona consejos, frases y citas inspiradoras basadas en una palabra clave ingresada por el usuario 🖤. La aplicación también cuenta con un "modo Dan" 🙈 que transforma los consejos a una perspectiva más pesimista-existencialista 😱💀.
 
