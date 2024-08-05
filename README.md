@@ -62,8 +62,9 @@ El "Modo Dan" es una característica que transforma los consejos mostrados a una
 
 ## Autores [[Mati O.]]
 
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/28DJWdZd/matioctocat.png' border='0' alt='matioctocat'/></a>
+***cursiva y negrita*** Si te gustaría hablar conmigo 📮: matiasjoelortiz11@gmail.com  
 
+<a href='https://postimg.cc/v1JHmhyh' target='_blank'><img src='https://i.postimg.cc/v1JHmhyh/matioctocat.png' border='0' alt='matioctocat'/></a>
 
 ### ❤️‍🔥 No tiene ninguna licencia. Lo hice porque porque quería divertirme aprendiendo. ❤️‍🔥
 
