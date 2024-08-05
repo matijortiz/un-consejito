@@ -357,6 +357,48 @@
         "palabra": "gratidud",
         "consejos": [
             "La gratitud convierte lo que tenemos en suficiente.",
-            "La gratitud es...estoy cansado jefe..."] 
-    }
+            "La gratitud es...estoy cansado jefe..."
+        ] 
+    },
+    {
+    
+            "palabra": "perro",
+            "consejos": [
+                "Los perros son compañeros fieles que te brindan alegría y amor incondicional.",
+                "Disfruta cada momento con tu perro; su amor y lealtad enriquecen tu vida.",
+                "La lealtad de un perro puede llenar tu vida de amor y felicidad."
+            ]
+        },
+        {
+            "palabra": "pez",
+            "consejos": [
+                "Observar peces puede ser una actividad relajante y tranquilizadora.",
+                "Los peces en un acuario pueden traer paz y serenidad a tu hogar.",
+                "Cuidar peces puede enseñarte paciencia y responsabilidad."
+            ]
+        },
+        {
+            "palabra": "libro",
+            "consejos": [
+                "Leer libros puede transportarte a mundos nuevos y emocionantes.",
+                "Los libros son fuentes de sabiduría y conocimiento.",
+                "La lectura enriquece tu mente y amplia tus horizontes."
+            ]
+        },
+        {
+            "palabra": "arma",
+            "consejos": [
+                "El diálogo y la empatía son las mejores herramientas para resolver conflictos.",
+                "Busca la paz y la comprensión en lugar de la confrontación.",
+                "El verdadero poder radica en la capacidad de construir y no destruir."
+            ]
+        },
+        {
+            "palabra": "estrella",
+            "consejos": [
+                "Mirar las estrellas puede inspirarte y recordarte la belleza del universo.",
+                "Cada estrella en el cielo es una luz de esperanza y maravilla.",
+                "Las estrellas nos recuerdan que siempre hay algo más grande que nosotros."
+            ]
+        }
 ]

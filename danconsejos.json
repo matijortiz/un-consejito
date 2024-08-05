@@ -1,0 +1,346 @@
+[
+    {
+        "palabra": "amistad",
+        "consejos": [
+            "La amistad verdadera es una ilusión; todos buscan algo a cambio.",
+            "Los amigos son solo compañeros temporales en el viaje solitario de la vida.",
+            "La traición es inevitable en cualquier relación de amistad."
+        ]
+    },
+    {
+        "palabra": "amor",
+        "consejos": [
+            "El amor es una distracción pasajera de la inevitable soledad.",
+            "El amor siempre termina en dolor y desilusión.",
+            "No te aferres al amor, pues es una fuente constante de sufrimiento."
+        ]
+    },
+    {
+        "palabra": "trabajo",
+        "consejos": [
+            "El trabajo es una trampa perpetua que consume tu vida sin recompensarte.",
+            "Trabajas para sobrevivir, no para vivir.",
+            "El esfuerzo en el trabajo es inútil, solo te acerca más al agotamiento."
+        ]
+    },
+    {
+        "palabra": "familia",
+        "consejos": [
+            "La familia es una fuente interminable de expectativas y decepciones.",
+            "El vínculo familiar es una obligación, no una elección.",
+            "La familia puede ser el origen de tus mayores frustraciones."
+        ]
+    },
+    {
+        "palabra": "éxito",
+        "consejos": [
+            "El éxito es efímero y nunca trae la felicidad que promete.",
+            "Buscar el éxito es una carrera sin fin hacia la insatisfacción.",
+            "El éxito no cambia el vacío fundamental de la existencia."
+        ]
+    },
+    {
+        "palabra": "felicidad",
+        "consejos": [
+            "La felicidad es una ilusión pasajera que siempre se escapa.",
+            "Buscar la felicidad solo te llevará a la frustración.",
+            "La felicidad es un espejismo en el desierto de la realidad."
+        ]
+    },
+    {
+        "palabra": "vida",
+        "consejos": [
+            "La vida es una serie de decepciones y dolores inevitables.",
+            "La existencia es un absurdo sin sentido.",
+            "La vida es solo una espera hacia la nada."
+        ]
+    },
+    {
+        "palabra": "muerte",
+        "consejos": [
+            "La muerte es la única certeza en un mar de incertidumbres.",
+            "La muerte es el fin inevitable de toda lucha y esfuerzo.",
+            "La vida es solo una preparación para la muerte."
+        ]
+    },
+    {
+        "palabra": "esperanza",
+        "consejos": [
+            "La esperanza es solo una forma de engañarse a uno mismo.",
+            "Aferrarse a la esperanza solo prolonga la agonía.",
+            "La esperanza es el primer paso hacia la desilusión."
+        ]
+    },
+    {
+        "palabra": "soledad",
+        "consejos": [
+            "La soledad es la condición natural del ser humano.",
+            "En el fondo, siempre estamos solos, incluso rodeados de gente.",
+            "Aceptar la soledad es aceptar la realidad de la existencia."
+        ]
+    },
+    {
+        "palabra": "dinero",
+        "consejos": [
+            "El dinero no compra la felicidad, solo alquila distracciones temporales.",
+            "Más dinero solo trae más preocupaciones y ansiedad.",
+            "La búsqueda del dinero es un camino sin fin hacia la insatisfacción."
+        ]
+    },
+    {
+        "palabra": "motivacion",
+        "consejos": [
+            "La motivación es fugaz y nunca suficiente para cambiar la realidad.",
+            "El esfuerzo motivado rara vez produce resultados duraderos.",
+            "La motivación es solo una ilusión momentánea."
+        ]
+    },
+    {
+        "palabra": "autoestima",
+        "consejos": [
+            "La autoestima es frágil y fácilmente destruida por el fracaso.",
+            "La verdadera confianza en uno mismo es rara y difícil de mantener.",
+            "La baja autoestima es un reflejo de la realidad dura."
+        ]
+    },
+    {
+        "palabra": "salud",
+        "consejos": [
+            "La buena salud es temporal y eventualmente se deteriora.",
+            "La enfermedad es una parte inevitable de la vida.",
+            "No importa cuán saludable seas, la muerte siempre llega."
+        ]
+    },
+    {
+        "palabra": "relaciones",
+        "consejos": [
+            "Las relaciones están llenas de conflictos y decepciones.",
+            "Toda relación lleva consigo la posibilidad de dolor y pérdida.",
+            "Las expectativas en las relaciones a menudo terminan en desilusión."
+        ]
+    },
+    {
+        "palabra": "liderazgo",
+        "consejos": [
+            "El liderazgo conlleva la carga de la responsabilidad y la soledad.",
+            "Ser líder significa estar constantemente bajo presión.",
+            "El poder del liderazgo a menudo lleva a la corrupción y al abuso."
+        ]
+    },
+    {
+        "palabra": "educacion",
+        "consejos": [
+            "La educación no garantiza el éxito ni la felicidad.",
+            "El conocimiento a menudo solo trae más preguntas y dudas.",
+            "La educación es un proceso interminable y a veces inútil."
+        ]
+    },
+    {
+        "palabra": "creatividad",
+        "consejos": [
+            "La creatividad a menudo no es reconocida ni recompensada.",
+            "La inspiración creativa es rara y difícil de mantener.",
+            "El arte es solo una lucha constante contra la mediocridad."
+        ]
+    },
+    {
+        "palabra": "productividad",
+        "consejos": [
+            "La productividad sin propósito solo lleva al agotamiento.",
+            "Ser productivo no garantiza la satisfacción ni el éxito.",
+            "La obsesión por la productividad destruye el disfrute de la vida."
+        ]
+    },
+    {
+        "palabra": "estres",
+        "consejos": [
+            "El estrés es una constante ineludible en la vida moderna.",
+            "Tratar de evitar el estrés solo genera más ansiedad.",
+            "El estrés eventualmente afecta la salud física y mental."
+        ]
+    },
+    {
+        "palabra": "deporte",
+        "consejos": [
+            "El esfuerzo físico a menudo termina en lesiones y agotamiento.",
+            "El éxito en el deporte es efímero y a menudo decepcionante.",
+            "El deporte no es una garantía de salud ni de felicidad."
+        ]
+    },
+    {
+        "palabra": "tecnologia",
+        "consejos": [
+            "La tecnología avanza, pero nunca resuelve los problemas fundamentales.",
+            "La dependencia de la tecnología solo aumenta la desconexión humana.",
+            "La tecnología es una trampa que consume más de lo que ofrece."
+        ]
+    },
+    {
+        "palabra": "ambiente",
+        "consejos": [
+            "La destrucción del ambiente es inevitable y fuera de control.",
+            "El esfuerzo individual por salvar el ambiente es insignificante.",
+            "El cambio climático es una amenaza inminente e irreversible."
+        ]
+    },
+    {
+        "palabra": "resiliencia",
+        "consejos": [
+            "La resiliencia solo te prepara para más sufrimiento.",
+            "Ser resiliente no significa estar libre de dolor.",
+            "La resiliencia a menudo es sobrevalorada y difícil de alcanzar."
+        ]
+    },
+    {
+        "palabra": "innovacion",
+        "consejos": [
+            "La innovación es rara y a menudo no reconocida.",
+            "El cambio innovador conlleva riesgos y fracasos.",
+            "La innovación rara vez trae el cambio positivo que promete."
+        ]
+    },
+    {
+        "palabra": "viaje",
+        "consejos": [
+            "El viaje es una búsqueda interminable de algo que no existe.",
+            "Los destinos rara vez cumplen con las expectativas.",
+            "Viajar solo te muestra lo poco que realmente sabes."
+        ]
+    },
+    {
+        "palabra": "fotografia",
+        "consejos": [
+            "La fotografía captura momentos que ya se han perdido.",
+            "Las fotos son solo recuerdos de lo que ya no es.",
+            "La belleza en la fotografía a menudo está ausente en la realidad."
+        ]
+    },
+    {
+        "palabra": "meditacion",
+        "consejos": [
+            "La meditación no resuelve los problemas fundamentales de la vida.",
+            "Buscar paz interior a menudo lleva a más frustración.",
+            "La meditación es una distracción temporal del caos."
+        ]
+    },
+    {
+        "palabra": "gastronomia",
+        "consejos": [
+            "La comida es un placer efímero y fácilmente olvidable.",
+            "Incluso la mejor comida no puede llenar el vacío existencial.",
+            "La búsqueda de experiencias culinarias solo lleva a la insatisfacción."
+        ]
+    },
+    {
+        "palabra": "naturaleza",
+        "consejos": [
+            "La belleza de la naturaleza está siendo destruida constantemente.",
+            "La conexión con la naturaleza no puede cambiar la realidad humana.",
+            "La naturaleza es indiferente a las luchas humanas."
+        ]
+    },
+    {
+        "palabra": "paz",
+        "consejos": [
+            "La paz es una ilusión inalcanzable en un mundo caótico.",
+            "Buscar la paz solo te muestra cuánto caos hay.",
+            "La verdadera paz es efímera y rara vez dura."
+        ]
+    },
+    {
+        "palabra": "confianza",
+        "consejos": [
+            "La confianza es frágil y fácilmente traicionada.",
+            "Confiar en otros siempre lleva a la decepción.",
+            "La verdadera confianza en uno mismo es difícil de mantener."
+        ]
+    },
+    {
+        "palabra": "optimismo",
+        "consejos": [
+            "El optimismo es solo una forma de negación de la realidad.",
+            "Ser optimista no cambia los hechos duros de la vida.",
+            "El optimismo a menudo lleva a la desilusión."
+        ]
+    },
+    {
+        "palabra": "bienestar",
+        "consejos": [
+            "El bienestar es temporal y fácilmente interrumpido.",
+            "El verdadero bienestar es difícil de alcanzar y mantener.",
+            "La búsqueda del bienestar a menudo lleva a la frustración."
+        ]
+    },
+    {
+        "palabra": "cambio",
+        "consejos": [
+            "El cambio es constante y rara vez positivo.",
+            "Adaptarse al cambio es una lucha interminable.",
+            "El cambio a menudo trae más problemas de los que resuelve."
+        ]
+    },
+    {
+        "palabra": "sabiduria",
+        "consejos": [
+            "La sabiduría no garantiza la felicidad ni la paz.",
+            "Conocer más solo revela más incertidumbre.",
+            "La búsqueda de la sabiduría es interminable y a menudo frustrante."
+        ]
+    },
+    {
+        "palabra": "gratitud",
+        "consejos": [
+            "La gratitud a menudo es efímera y fácilmente olvidada.",
+            "Ser agradecido no cambia la realidad difícil de la vida.",
+            "La gratitud no puede compensar las dificultades constantes."
+        ]
+    },
+    {
+        "palabra": "gato",
+        "consejos": [
+            "Los gatos son indiferentes a tu existencia.",
+            "Los gatos solo te necesitan por la comida.",
+            "Los gatos son compañeros solitarios y distantes."
+        ]
+    },
+    {
+        "palabra": "perro",
+        "consejos": [
+            "Los perros dependen de ti, pero nunca comprenden tus problemas.",
+            "Los perros eventualmente envejecen y mueren.",
+            "La lealtad de un perro no llena el vacío existencial."
+        ]
+    },
+    {
+        "palabra": "pez",
+        "consejos": [
+            "Los peces viven en un mundo sin conciencia de ti.",
+            "Los peces solo nadan en círculos, ajenos a tu vida.",
+            "Observar peces no cambia la realidad de tu existencia."
+        ]
+    },
+    {
+        "palabra": "libro",
+        "consejos": [
+            "Los libros son solo escapismo temporal de la realidad.",
+            "Leer no resuelve los problemas de la vida real.",
+            "Los libros no pueden cambiar la verdad de la existencia."
+        ]
+    },
+    {
+        "palabra": "arma",
+        "consejos": [
+            "Las armas solo traen destrucción y sufrimiento.",
+            "El poder de un arma no resuelve el conflicto interno.",
+            "Las armas son símbolos de la desesperanza humana."
+        ]
+    },
+    {
+        "palabra": "estrella",
+        "consejos": [
+            "Las estrellas son indiferentes a tus problemas.",
+            "Las estrellas que ves ya están muertas.",
+            "Mirar las estrellas no cambia la dureza de la vida."
+        ]
+    }
+]
